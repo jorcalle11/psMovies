@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "photo":"movie.png",
+    "name": "Batman vs Superman",
+    "age": 2016,
+    "producer":"DC",
+    "rating": 2
+  },
+  {
+    "id": 2,
+    "photo":"movie.png",
+    "name": "Civil War",
+    "age": 2016,
+    "producer":"Marvel",
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "photo":"movie.png",
+    "name": "Fast and Forious 7",
+    "age": 2015,
+    "producer":"Universal",
+    "rating": 3
+  }
+]
